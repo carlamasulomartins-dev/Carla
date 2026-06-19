@@ -35,7 +35,7 @@ header h1 {
 
 /* Estilo dos Blocos de Conteúdo (Cards) */
 .card {
-    background-color: rgb(157, 108, 108);
+    background-color: rgb(64, 21, 21);
     padding: 25px;
     border-radius: 8px; /* Bordas arredondadas */
     margin-bottom: 20px; /* Espaço entre um card e outro */
