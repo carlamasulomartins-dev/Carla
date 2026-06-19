@@ -49,7 +49,7 @@ header h1 {
 
 /* Estilo do Botão Interativo */
 button {
-    background-color: #235c3b; /* Cor verde */
+    background-color: #dd1133; /* Cor verde */
     color: rgb(188, 114, 114);
     border: none;
     padding: 12px 24px;
@@ -63,7 +63,7 @@ button {
 
 /* Efeito quando passa o mouse por cima do botão (Hover) */
 button:hover {
-    background-color: #4f6e5c; /* Verde mais escuro */
+    background-color: #a51dbd; /* Verde mais escuro */
 }
 
 /* Estilo do Rodapé */
